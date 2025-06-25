@@ -69,9 +69,4 @@ pip install -r requirements.txt
 
 jupyter notebook notebooks/social_media_analysis.ipynb
 
-👩‍💻 Author:
-Preethi Saran
-GitHub: @pps-3
 
-📄 License
-This project is licensed under the MIT License.
